@@ -314,7 +314,7 @@ i:hover::after{
         scale: 1;
     }
 }
-/* about section */
+
 .about{
     display: flex;
     justify-content: center;
@@ -343,6 +343,20 @@ section.start-animation .title{
         transform: translateY(0px);
         opacity: 1;
     }
+}
+.paragraph-container {
+  max-width: 800px; 
+  margin: 0 auto;  
+  padding: 20px;  
+ }
+
+.paragraph-container p {
+  font-size: 16px;       
+  line-height: 1.6;       
+          
+  margin: 0;              
+  text-align: left;       
+  white-space: pre-wrap; 
 }
 .title span{
     color: #ff00ee;
