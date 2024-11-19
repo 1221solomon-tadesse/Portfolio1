@@ -440,7 +440,7 @@ section.start-animation .text-content2 .btn{
         opacity: 1;
     }
 }
-/* education section */
+
 .row{
     display: flex;
     column-gap: 4rem;
@@ -595,7 +595,6 @@ section.start-animation .skill-box2{
 .bar-3{
     width: 70%;
 }
-/* contact section */
 section form{
     max-width: 70rem;
     text-align: center;
@@ -675,7 +674,6 @@ section.start-animation .btn{
     box-shadow: 0 0 .3rem #ff00ee,
     0 0 .7rem #ff00ee;
 }
-/* footer */
 
 footer{
     background: #080707;
